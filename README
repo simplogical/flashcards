@@ -1,0 +1,9 @@
+= Flash Cards
+
+A collection of markdown files to help me memorize some basic syntax. Process
+with the slideshow gem (slideshow.rubyforge.org) to create a self-contained 
+html presentation.
+
+Concept and initial content from Adam Lowe's "How I'm learning..." blog posts 
+(www.adamlowe.me).
+
